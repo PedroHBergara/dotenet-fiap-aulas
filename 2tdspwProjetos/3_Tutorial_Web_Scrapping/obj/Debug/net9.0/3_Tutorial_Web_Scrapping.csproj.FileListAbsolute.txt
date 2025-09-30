@@ -1,0 +1,17 @@
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/3_Tutorial_Web_Scrapping
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/3_Tutorial_Web_Scrapping.deps.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/3_Tutorial_Web_Scrapping.runtimeconfig.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/3_Tutorial_Web_Scrapping.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/3_Tutorial_Web_Scrapping.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/bin/Debug/net9.0/HtmlAgilityPack.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.csproj.AssemblyReference.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.AssemblyInfoInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.AssemblyInfo.cs
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.csproj.CoreCompileInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutori.0DAB586B.Up2Date
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/refint/3_Tutorial_Web_Scrapping.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/3_Tutorial_Web_Scrapping.genruntimeconfig.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/obj/Debug/net9.0/ref/3_Tutorial_Web_Scrapping.dll

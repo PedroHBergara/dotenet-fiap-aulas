@@ -1,0 +1,14 @@
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/bin/Debug/net9.0/4_LINQ
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/bin/Debug/net9.0/4_LINQ.deps.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/bin/Debug/net9.0/4_LINQ.runtimeconfig.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/bin/Debug/net9.0/4_LINQ.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/bin/Debug/net9.0/4_LINQ.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.AssemblyInfoInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.AssemblyInfo.cs
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.csproj.CoreCompileInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/refint/4_LINQ.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/4_LINQ.genruntimeconfig.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/4_LINQ/obj/Debug/net9.0/ref/4_LINQ.dll

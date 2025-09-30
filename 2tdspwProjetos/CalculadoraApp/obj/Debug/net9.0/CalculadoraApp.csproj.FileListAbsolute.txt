@@ -1,0 +1,14 @@
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/bin/Debug/net9.0/CalculadoraApp
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/bin/Debug/net9.0/CalculadoraApp.deps.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/bin/Debug/net9.0/CalculadoraApp.runtimeconfig.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/bin/Debug/net9.0/CalculadoraApp.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/bin/Debug/net9.0/CalculadoraApp.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.AssemblyInfoInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.AssemblyInfo.cs
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.csproj.CoreCompileInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/refint/CalculadoraApp.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/CalculadoraApp.genruntimeconfig.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/CalculadoraApp/obj/Debug/net9.0/ref/CalculadoraApp.dll

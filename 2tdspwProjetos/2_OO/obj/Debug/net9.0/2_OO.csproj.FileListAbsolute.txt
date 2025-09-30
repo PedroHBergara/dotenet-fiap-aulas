@@ -1,0 +1,14 @@
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/bin/Debug/net9.0/2_OO
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/bin/Debug/net9.0/2_OO.deps.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/bin/Debug/net9.0/2_OO.runtimeconfig.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/bin/Debug/net9.0/2_OO.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/bin/Debug/net9.0/2_OO.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfoInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.AssemblyInfo.cs
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.csproj.CoreCompileInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/refint/2_OO.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/2_OO.genruntimeconfig.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/2_OO/obj/Debug/net9.0/ref/2_OO.dll

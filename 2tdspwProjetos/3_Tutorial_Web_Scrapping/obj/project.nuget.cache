@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "34hOLiH95dA=",
+  "success": true,
+  "projectFilePath": "/Users/leonardo.romao/RiderProjects/2tdspwProjetos/3_Tutorial_Web_Scrapping/3_Tutorial_Web_Scrapping.csproj",
+  "expectedPackageFiles": [
+    "/Users/leonardo.romao/.nuget/packages/htmlagilitypack/1.11.72/htmlagilitypack.1.11.72.nupkg.sha512"
+  ],
+  "logs": []
+}

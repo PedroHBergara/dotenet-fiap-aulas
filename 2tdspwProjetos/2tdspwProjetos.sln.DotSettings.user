@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AThrowHelpers_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fd37356fea9ed307068a31dc8ca3e5c5723187a9f164d0d76fc81bbf46f5_003FThrowHelpers_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00ae3bcf_002D6db0_002D401a_002Da2b4_002D4793e68009db/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Somar_DoisNumerosDeveRetornarSomaCorreta" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9C9150CC-BF46-4E1E-A1E2-7F8BA8FF78AA::net9.0::CalculatorTest.CalculadoraUnitTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6AE0C499-4386-45C0-B47A-D315004DA03E::net9.0::TestApp.TodoApiTests.GetTodos_ShouldReturnEmptyList&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6AE0C499-4386-45C0-B47A-D315004DA03E::net9.0::TestApp.TodoApiTests.PostTodo_ShouldCreateNewTodo&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6AE0C499-4386-45C0-B47A-D315004DA03E::net9.0::TestApp.TodoApiTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6f2a89b1_002D0301_002D402c_002Db5b4_002Dc611ced3f65f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTodos_ShouldReturnListWithItems" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6AE0C499-4386-45C0-B47A-D315004DA03E::net9.0::TestApp.TodoApiTests.GetTodos_ShouldReturnListWithItems&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

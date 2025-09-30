@@ -1,0 +1,78 @@
+syntax = "proto3";
+
+option csharp_namespace = "TodoApp.Protos";
+
+package todo;
+
+service TodoService {
+  rpc GetAllTodos (GetAllTodosRequest) returns (GetAllTodosResponse);
+  rpc GetCompleteTodos (GetCompleteTodosRequest) returns (GetCompleteTodosResponse);
+  rpc GetTodoById (GetTodoByIdRequest) returns (GetTodoByIdResponse);
+  rpc CreateTodo (CreateTodoRequest) returns (CreateTodoResponse);
+  rpc UpdateTodo (UpdateTodoRequest) returns (UpdateTodoResponse);
+  rpc DeleteTodo (DeleteTodoRequest) returns (DeleteTodoResponse);
+}
+
+message TodoItem {
+  int32 id = 1;
+  string name = 2;
+  bool is_complete = 3;
+}
+
+message GetAllTodosRequest {
+}
+
+message GetAllTodosResponse {
+  repeated TodoItem todos = 1;
+}
+
+message GetCompleteTodosRequest {
+}
+
+message GetCompleteTodosResponse {
+  repeated TodoItem todos = 1;
+}
+
+message GetTodoByIdRequest {
+  int32 id = 1;
+}
+
+message GetTodoByIdResponse {
+  oneof result {
+    TodoItem todo = 1;
+    string error = 2;
+  }
+}
+
+message CreateTodoRequest {
+  string name = 1;
+  bool is_complete = 2;
+}
+
+message CreateTodoResponse {
+  TodoItem todo = 1;
+}
+
+message UpdateTodoRequest {
+  int32 id = 1;
+  string name = 2;
+  bool is_complete = 3;
+}
+
+message UpdateTodoResponse {
+  oneof result {
+    bool success = 1;
+    string error = 2;
+  }
+}
+
+message DeleteTodoRequest {
+  int32 id = 1;
+}
+
+message DeleteTodoResponse {
+  oneof result {
+    bool success = 1;
+    string error = 2;
+  }
+}

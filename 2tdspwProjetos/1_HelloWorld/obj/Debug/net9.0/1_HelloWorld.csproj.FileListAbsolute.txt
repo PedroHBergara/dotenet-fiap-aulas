@@ -1,0 +1,14 @@
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.deps.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.runtimeconfig.json
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.AssemblyInfoInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.AssemblyInfo.cs
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/refint/1_HelloWorld.dll
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.pdb
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.genruntimeconfig.cache
+/Users/leonardo.romao/RiderProjects/2tdspwProjetos/1_HelloWorld/obj/Debug/net9.0/ref/1_HelloWorld.dll
